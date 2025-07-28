@@ -3,16 +3,9 @@ This project is built with Next.js using the create-next-app tool.
 Getting Started
 To launch the development server, run:
 
-bash
-Copy
-Edit
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 Afterwards, open http://localhost:3000 in your browser to see your application.
 
 You can begin editing by changing the app/page.tsx file, and your updates will be instantly reflected in the browser.
